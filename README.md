@@ -21,6 +21,8 @@ A curated list of awesome things related to [Marp].
   - [Community themes](#community-themes)
 - [Plugins](#plugins)
   - [Compatible markdown-it plugins](#compatible-markdown-it-plugins)
+- [Examples](#examples)
+  - [Community examples](#community-examples)
 
 ## Ecosystem
 
@@ -80,3 +82,11 @@ This section will list Marp-specific plugins.
 
 - [@kazumatu981/markdown-it-kroki](https://github.com/kazumatu981/markdown-it-kroki) - markdown-it plugin (mainly designed for Marp), to support [Kroki](https://kroki.io/) powered embeding diagrams.
 - [@kazumatu981/markdown-it-fontawesome](https://github.com/kazumatu981/markdown-it-fontawesome) - markdown-it plugin (mainly designed for Marp), to support [Font Awesome](https://fontawesome.com/) icons.
+
+## Examples
+
+- [Marp CLI example](https://github.com/yhatt/marp-cli-example) - An example of Marp CLI automation with GitHub Pages/Netlify/Vercel. (by Marp maintainer)
+
+### Community examples
+
+- [Deploy Marp to GitHub Pages](https://github.com/ralexander-phi/marp-to-pages) - The template repository for deploying Marp slide deck to GitHub Pages.
