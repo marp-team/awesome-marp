@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "awesome-marp",
+  "description": "A curated list of awesome things related to Marp",
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Marp team",
+    "url": "https://github.com/marp-team"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marp-team/awesome-marp"
+  },
+  "scripts": {
+    "format:write": "npm run format -- --write",
+    "format": "prettier \"**/*.{json,md,yaml,yml}\"",
+    "lint": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "^1.1.0",
+    "prettier": "^3.2.5"
+  }
+}
