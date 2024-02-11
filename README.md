@@ -1,5 +1,9 @@
 <!-- lint disable awesome-git-repo-age -->
 
+<p align="center">
+  <img src="./awesome-marp.png" alt="Awesome Marp" width="640">
+</p>
+
 # Awesome Marp [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <a href="https://marp.app"><img src="https://marp.app/favicon.png" align="right" width="120" height="120" /></a>
