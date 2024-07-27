@@ -66,6 +66,7 @@ A curated list of awesome things related to [Marp].
 - [Rosé Pine](https://github.com/rainbowflesh/Rose-Pine-For-Marp) - Marp themes using [Rosé Pine](https://rosepinetheme.com/) palettes.
 - [Wave](https://github.com/JuliusWiedemann/MarpThemeWave) - Marp theme with modern wave.
 - [Awesome Marp](https://github.com/favourhong/Awesome-Marp) - Marp theme set with many useful layouts. 🇨🇳
+- [marp-black-white](https://github.com/hyuunnn/marp-black-white) - A Marp theme using black and white. 🇰🇷
 - [marp-theme-academic](https://github.com/kaisugi/marp-theme-academic) - A Marp theme with Beamer-like academic style. 🇯🇵
 - [teaching-theme-for-marp](https://github.com/eyssette/teaching-theme-for-marp) - A Marp theme designed for teaching. 🇫🇷
 
