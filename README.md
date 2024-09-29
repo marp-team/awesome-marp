@@ -65,6 +65,7 @@ A curated list of awesome things related to [Marp].
 - [Nord](https://github.com/mastern2k3/marpit-nord-theme) - A theme based on [Nord](https://www.nordtheme.com/) color palette.
 - [Rosé Pine](https://github.com/rainbowflesh/Rose-Pine-For-Marp) - Marp themes using [Rosé Pine](https://rosepinetheme.com/) palettes.
 - [Wave](https://github.com/JuliusWiedemann/MarpThemeWave) - Marp theme with modern wave.
+- [HSMW](https://git.hs-mittweida.de/marp/marp-theme-hsmw) - Theme according to [HSMW](https://www.hs-mittweida.de/) CI for Marp.
 - [Awesome Marp](https://github.com/favourhong/Awesome-Marp) - Marp theme set with many useful layouts. 🇨🇳
 - [marp-black-white](https://github.com/hyuunnn/marp-black-white) - A Marp theme using black and white. 🇰🇷
 - [marp-theme-academic](https://github.com/kaisugi/marp-theme-academic) - A Marp theme with Beamer-like academic style. 🇯🇵
