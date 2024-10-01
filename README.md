@@ -59,6 +59,7 @@ A curated list of awesome things related to [Marp].
 ### Community themes
 
 - [Beam](https://rnd195.github.io/marp-community-themes/theme/beam.html) - A theme that mimics the style of [LaTeX Beamer](https://www.ctan.org/pkg/beamer).
+- [Cybertopia](https://github.com/noraj/cybertopia-marp) - A dark theme for Marp / Marpit slides ecosystem using the [Cybertopia Saturated](https://github.com/noraj/cybertopia-highlightjs) highlight.js theme.
 - [Dracula](https://draculatheme.com/marp) - A dark theme for Marp, a part of [Dracula Theme](https://draculatheme.com/) project.
 - [Graph Paper](https://rnd195.github.io/marp-community-themes/theme/graph_paper.html) - A theme with graph paper background.
 - [marpstyle](https://github.com/cunhapaulo/marpstyle) - The set of Marp themes, designed with simplicity and beauty as first class prerequisites.
