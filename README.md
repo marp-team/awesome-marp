@@ -63,6 +63,7 @@ A curated list of awesome things related to [Marp].
 - [Dracula](https://draculatheme.com/marp) - A dark theme for Marp, a part of [Dracula Theme](https://draculatheme.com/) project.
 - [Graph Paper](https://rnd195.github.io/marp-community-themes/theme/graph_paper.html) - A theme with graph paper background.
 - [marpstyle](https://github.com/cunhapaulo/marpstyle) - The set of Marp themes, designed with simplicity and beauty as first class prerequisites.
+- [Minecraft on Marp!](https://github.com/mikael-ros/minecraft-on-marp) - A theme based on Minecraft
 - [Nord](https://github.com/mastern2k3/marpit-nord-theme) - A theme based on [Nord](https://www.nordtheme.com/) color palette.
 - [Rosé Pine](https://github.com/rainbowflesh/Rose-Pine-For-Marp) - Marp themes using [Rosé Pine](https://rosepinetheme.com/) palettes.
 - [Wave](https://github.com/JuliusWiedemann/MarpThemeWave) - Marp theme with modern wave.
