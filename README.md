@@ -88,7 +88,7 @@ This section will list Marp-specific plugins.
 
 ### Compatible markdown-it plugins
 
-- [@kazumatu981/markdown-it-kroki](https://github.com/kazumatu981/markdown-it-kroki) - markdown-it plugin (mainly designed for Marp), to support [Kroki](https://kroki.io/) powered embeding diagrams.
+- [@kazumatu981/markdown-it-kroki](https://github.com/kazumatu981/markdown-it-kroki) - markdown-it plugin (mainly designed for Marp), to support [Kroki](https://kroki.io/) powered embedding diagrams.
 - [@kazumatu981/markdown-it-fontawesome](https://github.com/kazumatu981/markdown-it-fontawesome) - markdown-it plugin (mainly designed for Marp), to support [Font Awesome](https://fontawesome.com/) icons.
 
 ## Examples
