@@ -94,7 +94,7 @@ This section will list Marp-specific plugins.
 ## Examples
 
 - [Marp CLI example](https://github.com/yhatt/marp-cli-example) - An example of Marp CLI automation with GitHub Pages/Netlify/Vercel. (by Marp maintainer)
-- [EclipseCon 2022 Keyboard talk](https://github.com/mattdibi/eclipsecon-keyboard-talk) - An example of Marp automation with GitHub Pages and Marpit showcase (by Mattia Dal Ben)
+- [EclipseCon 2022 Keyboard talk](https://github.com/mattdibi/eclipsecon-keyboard-talk) - An example of Marp automation with GitHub Pages and Marpit showcase. (by Mattia Dal Ben)
 
 ### Community examples
 
