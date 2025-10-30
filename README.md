@@ -98,3 +98,4 @@ This section will list Marp-specific plugins.
 ### Community examples
 
 - [Deploy Marp to GitHub Pages](https://github.com/ralexander-phi/marp-to-pages) - The template repository for deploying Marp slide deck to GitHub Pages.
+- [EclipseCon 2022 Keyboard talk](https://github.com/mattdibi/eclipsecon-keyboard-talk) - An example of Marp automation with GitHub Pages using the official Marp container and Marp showcase. (by Mattia Dal Ben)
