@@ -47,7 +47,6 @@ A curated list of awesome things related to [Marp].
 - [Marp Slides for Obsidian](https://github.com/samuele-cozzi/obsidian-marp-slides) - A plugin for [Obsidian](https://obsidian.md/).
 - [Obsidian Marp Plugin](https://github.com/JichouP/obsidian-marp-plugin) - Yet another plugin for Obsidian.
 - [marpyter](https://github.com/trungleduc/marpyter) - An extension for [JupyterLab](https://jupyter.org/).
-- [Marp Editor for Standard Notes](https://github.com/TheodoreChu/marp-editor) - An editor for [Standard Notes](https://standardnotes.com/).
 - [GROWI](https://github.com/weseek/growi/) - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
 
 ## Themes
