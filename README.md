@@ -48,6 +48,7 @@ A curated list of awesome things related to [Marp].
 - [Obsidian Marp Plugin](https://github.com/JichouP/obsidian-marp-plugin) - Yet another plugin for Obsidian.
 - [marpyter](https://github.com/trungleduc/marpyter) - An extension for [JupyterLab](https://jupyter.org/).
 - [GROWI](https://github.com/weseek/growi/) - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
+- [sublimated](https://sublimated.com) - A git-native content platform software including [Marp integration](https://sublimated.com/docs/presentations/marp.md). ([Example](https://run.sublimated.com/docs/presentations/marp.md))
 
 ## Themes
 
