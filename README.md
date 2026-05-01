@@ -49,6 +49,8 @@ A curated list of awesome things related to [Marp].
 - [marpyter](https://github.com/trungleduc/marpyter) - An extension for [JupyterLab](https://jupyter.org/).
 - [GROWI](https://github.com/weseek/growi/) - Markdown collaboration software including [Marp support](https://docs.growi.org/en/guide/features/presentation.html#what-are-growi-slide-and-marp-slide).
 - [sublimated](https://sublimated.com) - A git-native content platform software including [Marp integration](https://sublimated.com/docs/presentations/marp.md). ([Example](https://run.sublimated.com/docs/presentations/marp.md))
+- [marp-UI](https://codeberg.org/ric_harvey/marp-ui) - Web based UI for editing Marp slides writen in nodeJS
+- [marpUI](https://codeberg.org/ric_harvey/marpUI-swift) - An iPadOS native app for editing Marp Slides 100% free and Open Source get it on the [app store](https://apps.apple.com/us/app/marpui/id6765473879)
 
 ## Themes
 
